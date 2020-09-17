@@ -1,0 +1,13 @@
+.hot {
+  color: Red;
+  font-size: 100px;
+}
+
+#para {
+  color: blue;
+  font-size: 50px;
+}
+
+body {
+  background-color: antiquewhite;
+}
