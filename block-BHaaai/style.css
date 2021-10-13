@@ -1,14 +1,21 @@
-body {
-  background-color: #22396a;
-  color: white;
-}
-header {
-  text-align: center;
-}
-h2 {
-  color: #31bb66;
+body{
+  background-color: rgb(35,58,106);
+  color:white;
 }
 
-a {
-  color: red;
+header,footer{
+  text-align: center;
+}
+
+h2{
+  color: rgb(50,187,102)
+}
+
+a{
+  color:red;
+  margin: 20px;
+}
+
+footer{
+  background-color: rgb(17,37,76)
 }
