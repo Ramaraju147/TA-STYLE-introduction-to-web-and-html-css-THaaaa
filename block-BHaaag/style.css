@@ -1,15 +1,12 @@
-body {
-  background-color: #062844;
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
+body{
+  background-color: rgb(35,57,106);
+  color:white;
 }
 
-.exp {
-  color: rgb(21, 194, 21);
+h2{
+  color: rgb(49,187,102)
 }
 
-div a {
-  color: red;
-  display: inline-block;
-  padding-right: 15px;
+a{
+  color:red;
 }
