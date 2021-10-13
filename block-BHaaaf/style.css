@@ -1,13 +1,12 @@
-.hot {
-  color: Red;
-  font-size: 100px;
+body {
+  background-color: aqua;
+}
+
+.heading {
+  color:red;
 }
 
 #para {
   color: blue;
-  font-size: 50px;
 }
 
-body {
-  background-color: antiquewhite;
-}
